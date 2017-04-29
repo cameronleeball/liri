@@ -180,11 +180,11 @@ function execute(command, modifier) {
         case 'do-what-it-says':
             doWhat();
             break;
-        case 'help':
-        case 'Help':
-        case 'HELP':
-            help();
-            break;
+        // case 'help':
+        // case 'Help':
+        // case 'HELP':
+        //     help();
+        //     break;
         default:
             console.log("Hello! I'm LIRI...\n",
                 "That's short for Language Interpretation and Recognition Interface\n"
