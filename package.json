@@ -1,0 +1,28 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface",
+  "main": "liri.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronleeball/liri.git"
+  },
+  "author": "Cameron Ball",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronleeball/liri/issues"
+  },
+  "homepage": "https://github.com/cameronleeball/liri#readme"
+}
